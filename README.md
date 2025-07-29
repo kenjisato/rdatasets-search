@@ -5,7 +5,7 @@ A command-line tool for searching and exploring R datasets with interactive docu
 ## Installation
 
 ```bash
-uv tool install https://github.com/kenjisato/rdatasets-search
+uv tool install git+https://github.com/kenjisato/rdatasets-search
 ```
 
 ## Usage
